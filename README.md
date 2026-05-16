@@ -15,10 +15,10 @@ Este repositório contém as minhas soluções para os [Cryptopals Crypto Challe
 ### Set 1: Basics
 O primeiro conjunto foca em operações fundamentais, que servem de base para os ataques futuros.
 
-- [x] **Challenge 1:** Convert hex to base64
-- [x] **Challenge 2:** Fixed XOR
-- [x] **Challenge 3:** Single-byte XOR cipher
-- [x] **Challenge 4:** Detect single-character XOR (Arquivo **4.txt** necessário)
+- [x] **Challenge 1:** Convert hex to base64 (`hexToBase64.go`)
+- [x] **Challenge 2:** Fixed XOR (`fixedXor.go`)
+- [x] **Challenge 3:** Single-byte XOR cipher (`singlebyteXorCipher.go`)
+- [x] **Challenge 4:** Detect single-character XOR (`detectSingleCharXor.go` usando o dataset `4.txt`)
 - [ ] **Challenge 5:** Implement repeating-key XOR
 - [ ] **Challenge 6:** Break repeating-key XOR
 - [ ] **Challenge 7:** AES in ECB mode
