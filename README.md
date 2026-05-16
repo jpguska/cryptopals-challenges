@@ -18,7 +18,7 @@ O primeiro conjunto foca em operações fundamentais, que servem de base para os
 - [x] **Challenge 1:** Convert hex to base64
 - [x] **Challenge 2:** Fixed XOR
 - [x] **Challenge 3:** Single-byte XOR cipher
-- [x] **Challenge 4:** Detect single-character XOR
+- [x] **Challenge 4:** Detect single-character XOR (Arquivo **4.txt** necessário)
 - [ ] **Challenge 5:** Implement repeating-key XOR
 - [ ] **Challenge 6:** Break repeating-key XOR
 - [ ] **Challenge 7:** AES in ECB mode
